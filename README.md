@@ -18,8 +18,6 @@ Based in Noida, Uttar Pradesh, India
 > *“What we have to learn to do, we learn by doing.”*  
 > — Aristotle
 
-> From finding structure in messy data → understanding what matters → seeing how data is made up.
-
 ---
 
 ## 💻 Languages & Tools
