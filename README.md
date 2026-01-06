@@ -9,18 +9,17 @@ I enjoy working with **Python, SQL, data visualization, and ML models** to turn 
 I bring hands-on experience applying data analytics in the **financial services industry**, working with complex, real-world data.  
 Currently, I’m expanding my skills in **Generative AI for Data Science**.
 
-📍 Noida, Uttar Pradesh, India  
-📫 **jyotikab51@gmail.com**
+Based in Noida, Uttar Pradesh, India  
 
 ---
 
-## 🌱 What Guides My Work
+## My inspiration 
 
 > *“What we have to learn to do, we learn by doing.”*  
 > — Aristotle
 
 📊 **My data workflow, visualized:**  
-👉 [Click to view the full chart](assets/data-science-quote.svg)
+assets/data-science-quote.svg
 
 > From finding structure in messy data → understanding what matters → seeing how data is made up.
 
