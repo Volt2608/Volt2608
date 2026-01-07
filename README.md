@@ -1,23 +1,21 @@
 Hi, I’m **Jyotika Bhatia** 👋  
 
-Data Analytics | Python | SQL | Excel | Power BI | ML  
+Data Science | Python | SQL | ML | Visualization
 
 <img src="assets/data-laptop.gif" width="420" />
 
 I’m a data enthusiast driven by curiosity and a passion for transforming raw data into meaningful insights.  
 I enjoy working with **Python, SQL, data visualization, and ML models** to turn datasets into decisions.  
-I bring hands-on experience applying data analytics in the **financial services industry**, working with complex, real-world data.  
-Currently, I’m expanding my skills in **Generative AI for Data Science**.
+Experienced in **financial services industry**.  
+Currently, I’m improving my knowledge in **Generative AI for Data Science**.
 
 Based in Noida, Uttar Pradesh, India  
 
 ---
-
 ## My inspiration 
 
 > *“What we have to learn to do, we learn by doing.”*  
 > — Aristotle
-
 ---
 
 ## 💻 Languages & Tools
