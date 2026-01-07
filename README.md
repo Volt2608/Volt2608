@@ -39,7 +39,7 @@ Based in Noida, Uttar Pradesh, India
 
 ## 📌 Featured Project
 
-1. 🎓 **RAG-Based AI Teaching Assistant**  
+🎓 **RAG-Based AI Teaching Assistant**  
 🔗 **Project Repository:** https://github.com/Volt2608/RAG_Based_AI_Assistant
 
 This project builds a Retrieval-Augmented Generation (RAG) AI assistant that helps students explore MIT OpenCourseWare Python lectures. Instead of guessing, the system retrieves exact lecture segments with timestamps and generates answers grounded strictly in course content.
@@ -51,10 +51,10 @@ This project demonstrates an end-to-end RAG workflow on unstructured data, focus
 **Tech Stack:** Python, Whisper, Ollama, Scikit-learn, Jupyter
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-2. 🏠 **California Housing Price Prediction**  
+🏠 **California Housing Price Prediction**  
 🔗 **Project Repository:** https://github.com/Volt2608/CaliforniaHousingPrice
 
 This project predicts median house prices in California using demographic, geographic, and economic features. It focuses on building a **robust end-to-end machine learning pipeline** rather than just model training.
