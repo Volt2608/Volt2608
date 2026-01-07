@@ -1,4 +1,4 @@
-Hi, I’m **Jyotika Bhatia** 👋  
+**Hi, I’m Jyotika Bhatia** 👋😁
 
 **Data Science | Python | SQL | Machine Learning | Data Visualization**
 
@@ -12,7 +12,7 @@ Currently, I’m improving my knowledge in **Generative AI for Data Science**.
 Based in Noida, Uttar Pradesh, India  
 
 ---
-## My inspiration 
+## 📝 Inspired by 
 
 > *“What we have to learn to do, we learn by doing.”*  
 > — Aristotle
