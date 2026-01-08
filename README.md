@@ -1,4 +1,4 @@
-## 👋 Hi, this is Jyotika Bhatia 😁
+## 👋 Hi, this is Jyotika Bhatia 😊
 
 **Data Science | Python | SQL | Machine Learning | Data Visualization**
 
