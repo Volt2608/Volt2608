@@ -2,7 +2,7 @@
 
 **Data Science | Python | SQL | Machine Learning | Data Visualization**
 
-<img src="./assets/data-laptop.gif" width="420">
+<img src="./assets/github_banner_small.gif" width="420">
 
 I’m a data enthusiast driven by curiosity and a passion for transforming raw data into meaningful insights.  
 I enjoy working with **Python, SQL, data visualization, and ML models** to turn datasets into decisions.  
