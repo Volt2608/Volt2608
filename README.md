@@ -58,14 +58,7 @@ The project demonstrates strong fundamentals in **data preprocessing, model eval
 > — Aristotle
 ---
 
-<p align="center">
-  <img src="assets/Users/frolt/Downloads/svgviewer-output.svg" width="520" />
-</p>
-
-<h3 align="center">
-  The real grind happens before <code>model.fit()</code>
-</h3>
-
+<img src="assets/grind.svg" />
 
 ## 🌐 Connect With Me
 
