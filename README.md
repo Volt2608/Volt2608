@@ -52,13 +52,16 @@ The project demonstrates strong fundamentals in **data preprocessing, model eval
 **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
 ---
-## ✨ Inspiration :  
 
+> *“Inspiration :*
+> 
 > *“What we have to learn to do, we learn by doing.”*  
 > — Aristotle
+> 
 ---
 
-<img src="assets/grind.svg" />
+## Quick Fun Fact 
+<img src="assets/svgviewer-output.svg" />
 
 ## 🌐 Connect With Me
 
