@@ -1,0 +1,64 @@
+<svg width="560" height="160" viewBox="0 0 560 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gold gradient -->
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f5d77a"/>
+      <stop offset="50%" stop-color="#ffd700"/>
+      <stop offset="100%" stop-color="#c9a227"/>
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Shimmer -->
+    <linearGradient id="shimmer" x1="-100%" y1="0%" x2="200%" y2="0%">
+      <stop offset="0%" stop-color="#ffd700" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#ffd700" stop-opacity="0.2"/>
+      <animate attributeName="x1" from="-100%" to="100%" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="x2" from="0%" to="200%" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .bg { fill: #000000; }
+    .headline {
+      font-family: monospace;
+      font-size: 26px;
+      fill: url(#goldGradient);
+      filter: url(#glow);
+      letter-spacing: 1px;
+    }
+    .code {
+      font-family: monospace;
+      font-size: 30px;
+      fill: url(#shimmer);
+      filter: url(#glow);
+    }
+    .fade {
+      animation: fadeIn 1.5s ease-out forwards;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg" x="0" y="0" width="560" height="160" rx="18"/>
+
+  <!-- Text -->
+  <text class="headline fade" x="280" y="72" text-anchor="middle">
+    The real grind happens before
+  </text>
+
+  <text class="code fade" x="280" y="112" text-anchor="middle">
+    model.fit()
+  </text>
+</svg>
