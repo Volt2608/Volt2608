@@ -11,7 +11,7 @@
 ---
 <img src="./assets/glitter.gif" width="420">
 
-## **Data Science | Python | SQL | Machine Learning**
+## **Data Science | Data Anakyst | Python | SQL | Machine Learning**
 
 I’m a data enthusiast driven by curiosity and a passion for transforming raw data into meaningful insights.  
 I enjoy working with **Python, SQL, data visualization, and ML models** to turn datasets into decisions.  
