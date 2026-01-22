@@ -17,7 +17,7 @@ I’m a data enthusiast driven by curiosity for transforming raw data into meani
 I enjoy working with **Python, SQL, data visualization, and ML models** to turn datasets into decisions.  
 In addition, I'm experienced in **financial services industry**.  
 
-🔎✨ Currently, I’m improving my knowledge in **Generative AI for Data Science**. 
+🔎✨ Currently, improving my knowledge in **Generative AI for Data Science**. 
 
 Based in Noida, Uttar Pradesh, IN. 
 
