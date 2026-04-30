@@ -3,8 +3,8 @@
 
 I’m a Data Scientist driven by curiosity for transforming raw data into meaningful insights. 
 
-I enjoy working with **Python, SQL, data visualization, and ML models** to turn datasets into decisions.  
-In addition, I'm experienced in **financial services industry**.  
+I enjoy working with **Python, SQL, Data Visualization, and ML models** to turn datasets into decisions.  
+In addition, I'm experienced in **Financial Services Industry**.  
 
 🔎✨ Currently, improving my knowledge in **Generative and Agentic AI for Data Science**. 
 
