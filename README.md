@@ -1,5 +1,15 @@
-##  Hi, I am Jyotika Bhatia 😄
-## Languages & Tools 💻
+##  Hi, I am Jyotika Bhatia! 👋🏼 😁
+
+
+I’m a Data Scientist driven by curiosity for transforming raw data into meaningful insights. 
+
+I enjoy working with **Python, SQL, data visualization, and ML models** to turn datasets into decisions.  
+In addition, I'm experienced in **financial services industry**.  
+
+🔎✨ Currently, improving my knowledge in **Generative and Agentic AI for Data Science**. 
+
+Based in Noida, Uttar Pradesh, IN. 
+### Languages & Tools 💻
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -11,51 +21,59 @@
 ---
 <img src="./assets/glitter.gif" width="420">
 
-## **Data Science | Python | SQL | Machine Learning**
-
-I’m a data enthusiast driven by curiosity for transforming raw data into meaningful insights.  
-I enjoy working with **Python, SQL, data visualization, and ML models** to turn datasets into decisions.  
-In addition, I'm experienced in **financial services industry**.  
-
-🔎✨ Currently, improving my knowledge in **Generative and Agentic AI for Data Science**. 
-
-Based in Noida, Uttar Pradesh, IN. 
+### **LLM | Retrieval-Augmented Generation  | Machine Learning | SQL | Python**
 
 ---
 
-## Featured Projects 
+## 🚀 Featured Project
 
-**RAG-Based AI Assistant**  
-🔗 **Project Repository:** https://github.com/Volt2608/RAG_Based_AI_Assistant
+### 🔹 Churn Risk Intelligence System
+An end-to-end machine learning system designed to predict customer churn risk and provide actionable business insights through explainability and simulation.
 
-**Project Output -**
-This project builds a Retrieval-Augmented Generation (RAG) AI assistant that helps students explore MIT OpenCourseWare Python lectures. Instead of guessing, the system retrieves exact lecture segments with timestamps and generates answers grounded strictly in course content.
+- 📊 Built a complete ML pipeline (data preprocessing → model training → evaluation)
+- 🎯 Predicts customer churn probability with a risk scoring system (0–100)
+- 🔍 Integrated SHAP for model explainability and feature impact analysis
+- 🖥️ Developed an interactive dashboard using Streamlit
+- 🔄 Implemented a simulation engine to test customer retention strategies
+- 💡 Focused on real-world business impact: churn reduction & decision support
 
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, SHAP, Streamlit  
 
-**Project Workflow -** 
-The pipeline converts lecture videos to audio, transcribes them using Whisper, chunks and embeds the text with Ollama, and performs semantic similarity search to retrieve relevant segments. A lightweight LLM then produces accurate, context-aware responses or clearly refuses to answer if the question is out of scope.
-
-This project demonstrates an end-to-end RAG workflow on unstructured data, focusing on deterministic pipelines, grounded generation, and explainable outputs.
-
-**Tech Stack -** Python, Whisper, Ollama, Scikit-learn, Jupyter
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+🔗 [View Project](https://github.com/Volt2608/Churn_Risk_Intelligence_System)
 
 
-🏠 **California Housing Price Prediction**         
-🔗 **Project Repository:** https://github.com/Volt2608/CaliforniaHousingPrice
-
-**Project Output -**
-This project predicts median house prices in California using demographic, geographic, and economic features. It focuses on building a **robust end-to-end machine learning pipeline** rather than just model training.
+---
 
 
-**Project Workflow -** 
-The workflow includes data cleaning, exploratory data analysis, feature engineering, stratified sampling, and preprocessing using Scikit-learn pipelines and ColumnTransformer. Multiple regression models are trained and evaluated to compare performance and generalization.
+### 🔹 RAG-Based AI Assistant
+An end-to-end Retrieval-Augmented Generation (RAG) system designed to answer queries based on MIT OpenCourseWare Python lectures with grounded, context-aware responses.
 
-The project demonstrates strong fundamentals in **data preprocessing, model evaluation, and reproducible ML workflows** suitable for real-world applications.
+- 🎯 Retrieves relevant lecture segments with timestamps for accurate answers  
+- 🔍 Converts video → audio → text using Whisper for processing  
+- 🧠 Performs semantic search using embeddings generated via Ollama  
+- 💬 Generates responses using a lightweight LLM with strict context grounding  
+- 🚫 Handles out-of-scope queries by refusing incorrect answers  
 
-**Tech Stack -** Python, Pandas, NumPy, Scikit-learn, Matplotlib
+**Tech Stack:** Python, Whisper, Ollama, Scikit-learn, Jupyter  
+
+🔗 [View Project](https://github.com/Volt2608/RAG_Based_AI_Assistant)
+
+
+---
+
+
+### 🔹 California Housing Price Prediction
+An end-to-end machine learning project focused on predicting median house prices using demographic and geographic data.
+
+- 📊 Built a complete ML pipeline (data cleaning → preprocessing → model training)  
+- 📈 Applied stratified sampling for balanced dataset splitting  
+- 🧹 Performed feature engineering and data preprocessing using pipelines  
+- 🤖 Trained and evaluated multiple regression models  
+- 📉 Focused on model performance and generalization  
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib  
+
+🔗 [View Project](https://github.com/Volt2608/CaliforniaHousingPrice)
 
 ---
 
